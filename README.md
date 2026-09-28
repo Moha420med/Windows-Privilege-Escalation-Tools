@@ -13,4 +13,4 @@ This repository contains scripts, exploits, and automated tools used throughout 
 You can clone this repository to your local machine or penetration testing lab using:
 
 ```bash
-git clone [https://github.com/Moha420med/Windows-Privilege-Escalation-Tools.git]
+git clone https://github.com/Moha420med/Windows-Privilege-Escalation-Tools.git
